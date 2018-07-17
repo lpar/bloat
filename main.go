@@ -70,7 +70,6 @@ func (b *Bloat) Scan(basedir string) {
 		if err != nil {
 			return err
 		}
-		fmt.Println(path)
 		var fdir string
 		var perr error
 		if b.Abs {

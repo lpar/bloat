@@ -117,7 +117,7 @@ func main() {
 }
 
 func help() {
-	fmt.Printf("Usage: %s [DIR]...\n", filepath.Base(os.Args[0]))
+	fmt.Printf("Usage: %s [DIR]...\n\n", filepath.Base(os.Args[0]))
 	fmt.Println("Summarize disk space in use under the specified directory or directories.")
 	fmt.Println("Each directory is output along with the total size of all files under that directory.")
 	fmt.Println("The most bloated directories are reported first.")

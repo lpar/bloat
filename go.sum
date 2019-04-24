@@ -1,2 +1,4 @@
 github.com/lpar/bytesize v1.0.0 h1:VVc2juqhQLZUQPUIYoBh+pIpDPPkESQk/Ax3xwvSGWs=
 github.com/lpar/bytesize v1.0.0/go.mod h1:66Gq5zzJY8TFRZEbXsNd67J+2W4hVIWd2E+3tunPZmI=
+github.com/lpar/bytesize v1.0.1 h1:GM9Md9tPc/pNGdSfSyuY63Su33gNuo1zVSBgfdOgbQc=
+github.com/lpar/bytesize v1.0.1/go.mod h1:cQDdClKE8mwyGy/oUoK1HEc4aze6eaDbj2dwl5J1x9o=
